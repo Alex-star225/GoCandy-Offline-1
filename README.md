@@ -1,2 +1,2 @@
-# Wrapper Online Gold
-a reskined lvm clone
+# GoCandy Offline
+a lvm clone that cannot get patched
